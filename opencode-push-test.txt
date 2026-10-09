@@ -1,2 +1,0 @@
-opencode MCP push works
-verified 2026-10-09T22:36:50.254Z
